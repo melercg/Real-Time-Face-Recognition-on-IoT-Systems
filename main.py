@@ -1,4 +1,5 @@
 # Melisa Erocağı Makine Öğrenmesi Dersi, Yüz Tanıma Uygulamaları Örnek Scripti
+# Date: 10/06/2024
 import os
 import face_recognition
 import cv2
