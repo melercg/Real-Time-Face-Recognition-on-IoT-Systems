@@ -1,3 +1,4 @@
+# Melisa Erocağı Makine Öğrenmesi Dersi, Yüz Tanıma Uygulamaları Örnek Scripti
 import os
 import face_recognition
 import cv2
